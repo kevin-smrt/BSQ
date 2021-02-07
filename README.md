@@ -1,8 +1,8 @@
-##BSQ
+## BSQ
 * Language: C
 * Compilation: via Makefile
 
-##Authorized functions
+## Authorized functions
 The only system calls allowed are the following ones:
 * open
 * read
@@ -12,7 +12,7 @@ The only system calls allowed are the following ones:
 * free
 * stat
 
-##The project
+## The project
 You must find the largest possible square on a board while avoiding obstacles.
 The board is represented by a file passed as the program’s argument. The file is valid if it is respecting those
 constraints:
